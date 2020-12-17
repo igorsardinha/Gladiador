@@ -1,0 +1,11 @@
+
+&e&m-----------&7[&6&lEVENTO GLADIADOR&7]&e&m------------
+
+ &c>> &fEvento &6Gladiador &ffinalizado!
+ &c>> &fClan Vencedor: &r@clan&f. &ePARABÉNS&f!
+ &c>> &fTag &7[&6Gladiador&7]&f: &fEscolha dos Lideres&f.
+ &c>> &fTag &5[Mito do PVP]&f: &7@mito&f.
+ &c>> &fTop Vencedores: &9/gladiador top&f.
+ &c>> &fCastelo do Vencedor: &b/castelo&f.
+
+&e&m-------------------------------------------

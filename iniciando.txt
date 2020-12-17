@@ -1,0 +1,7 @@
+
+&e&m-----------&7[&6&lEVENTO GLADIADOR&7]&e&m------------
+&r
+   &cIniciando evento, se agrupe com seu clan!
+   &cTempo restante: &e&l@tempo &fsegundos.
+&r
+&e&m-------------------------------------------

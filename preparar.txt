@@ -1,0 +1,9 @@
+&e&m-----------&7[&6&lEVENTO GLADIADOR&7]&e&m------------
+&r
+  &c>> &fIniciando evento &6Gladiador&f!
+  &c>> &fPara participar use &c/gladiador&f.
+  &c>> &fTempo restante para entrar: &b@tempo &fsegundos.
+  &c>> &fMax de Jogadores: &915&f. &fMapa: &9Pinheiros&f.
+  &c>> &fJogadores: &e@jogadores&f, &fClans: &e@clans&f.
+&r
+&e&m-------------------------------------------

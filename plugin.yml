@@ -1,0 +1,13 @@
+name: Gladiador
+main: br.com.sgcraft.gladiador.Main
+version: 2.0
+depends: [Vault]
+softdepend: [Legendchat,HealthBar,SimpleClans]
+commands:
+   castelo:
+   gladiador:
+      description: Comando do Gladiador.
+      usage: /<command>
+   gladiadores:
+      description: Comando do Gladiador.
+      usage: /<command>
